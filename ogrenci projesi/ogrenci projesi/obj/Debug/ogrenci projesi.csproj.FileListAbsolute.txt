@@ -1,0 +1,7 @@
+C:\Users\Afranur\source\repos\ogrenci projesi\ogrenci projesi\obj\Debug\ogrenci projesi.csproj.AssemblyReference.cache
+C:\Users\Afranur\source\repos\ogrenci projesi\ogrenci projesi\obj\Debug\ogrenci projesi.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\ogrenci projesi\ogrenci projesi\bin\Debug\ogrenci projesi.exe.config
+C:\Users\Afranur\source\repos\ogrenci projesi\ogrenci projesi\bin\Debug\ogrenci projesi.exe
+C:\Users\Afranur\source\repos\ogrenci projesi\ogrenci projesi\bin\Debug\ogrenci projesi.pdb
+C:\Users\Afranur\source\repos\ogrenci projesi\ogrenci projesi\obj\Debug\ogrenci projesi.exe
+C:\Users\Afranur\source\repos\ogrenci projesi\ogrenci projesi\obj\Debug\ogrenci projesi.pdb
